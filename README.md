@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Infie03</h1>
 <h3 align="center">A passionate frontend, Minecraft and Discord developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infie03" alt="infie03" /></a> </p>
 
 - 🔭 I’m currently working on **Minecraft And Frontend**
 
